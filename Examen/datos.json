@@ -1,0 +1,57 @@
+[
+  {
+    "nombre": "Papas",
+    "precio": 25,
+    "cantidad": 3
+  },
+  {
+    "nombre": "Camoter",
+    "precio": 396,
+    "cantidad": 24
+  },
+  {
+    "nombre": "Cebolla",
+    "precio": 256,
+    "cantidad": 56
+  },
+  {
+    "nombre": "Zapallo",
+    "precio": 4568,
+    "cantidad": 25
+  },
+  {
+    "nombre": "Ciruela",
+    "precio": 652,
+    "cantidad": 21
+  },
+  {
+    "nombre": "Cereza",
+    "precio": 899,
+    "cantidad": 12
+  },
+  {
+    "nombre": "Zanahoria",
+    "precio": 2000,
+    "cantidad": 2
+  },
+  {
+    "nombre": "Jamon",
+    "precio": 5000,
+    "cantidad": 63
+  },
+  {
+    "nombre": "Salame",
+    "precio": 566,
+    "cantidad": 123
+  },
+  {
+    "nombre": "Mayonesa",
+    "precio": 450,
+    "cantidad": 23
+  },
+  {
+    "nombre": "Papas fritas",
+    "precio": 568,
+    "cantidad": 23
+  }
+]
